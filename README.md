@@ -4,7 +4,7 @@
 
 Software: Python (Colab or Jupyter)
 
-Packages: numpy, pandas, scikit.learn, statsmodels.api, matplotlib
+Packages: numpy, pandas, scikit.learn, statsmodels.api, matplotlib, statsmodels.tsa.api
 
 Platform: Charlie and Cato used Windows, Andrea on Mac
 
@@ -31,10 +31,6 @@ SCRIPTS: folder containing all relevant scripts used in the project
 > seaice_eda.ipynb: notebook containing code for data cleaning and exploratory data analysis
 
 > tripleexpsmoothing.ipynb: notebook containing code for the triple exponential smoothing portion of our analysis
-
-> insert_filename_here: notebook containing code for the SARIMA portion of our analysis
-
-> master_script.ipynb (not yet completed): notebook containing three scripts above combined
 
 ## Section 3: Instructions for reproducing your results
 
