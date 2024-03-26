@@ -45,8 +45,13 @@ For additional graphs/analysis, run tripleexpsmoothing_additional.ipynb.
 Analyze the results - After running the master script, there should have resulted in some graphs and figures. Cross reference these with the graphs and figures uploaded in the OUTPUT folder.
 
 ## Section 4: Resources
+
 [1] IEEE. (2022). Performance Analysis of the Triple Exponential Smoothing Method During the Covid19 Pandemic on Tourist Visit Data. https://ieeexplore.ieee.org/document/9872863 
+
 [2] LinkedIn community. (2024, January 2). How do you evaluate the accuracy of exponential smoothing forecasts?. Types of Exponential Smoothing and How to Evaluate Them. https://www.linkedin.com/advice/0/how-do-you-evaluate-accuracy-exponential-smoothing#:~:text=To%20evaluate%20the%20accuracy%20and,absolute%20percentage%20error%20(MAPE) 
+
 [3] SARIMA (Seasonal Autoregressive Integrated Moving Average). (2023). https://www.geeksforgeeks.org/sarima-seasonal-autoregressive-integrated-moving-average/ 
+
 [4]B. Etienne, “Time Series in Python — Part 2: Dealing with seasonal data,” Medium, Feb. 15, 2019. https://towardsdatascience.com/time-series-in-python-part-2-dealing-with-seasonal-data-397a65b74051
+
 [5]“Exponential smoothing — statsmodels,” www.statsmodels.org. https://www.statsmodels.org/dev/examples/notebooks/generated/exponential_smoothing.html
