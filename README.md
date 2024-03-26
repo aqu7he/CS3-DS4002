@@ -39,9 +39,13 @@ SCRIPTS: folder containing all relevant scripts used in the project
 ## Section 3: Instructions for reproducing your results
 
 To replicate our results, first download the files in the DATA folder.
+
 Prepare Python - Import the necessary libraries and add-on packages.  For python you will need to install pandas, statsmodels.api, numpy, matplotlib.pyplot, and import Exponential Smoothing, SimpleExpSmoothing, and Holt from statsmodels.tsa.api.
+
 Run master script file - In the SCRIPTS folder, download and run the tripleexpsmoothing.ipynb script in python.
+
 For additional graphs/analysis, run tripleexpsmoothing_additional.ipynb.
+
 Analyze the results - After running the master script, there should have resulted in some graphs and figures. Cross reference these with the graphs and figures uploaded in the OUTPUT folder.
 
 Resources:
