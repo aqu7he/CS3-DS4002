@@ -32,6 +32,8 @@ SCRIPTS: folder containing all relevant scripts used in the project
 
 > tripleexpsmoothing.ipynb: notebook containing code for the triple exponential smoothing portion of our analysis
 
+> tripleexpsmoothing_additional.ipynb: notebook with code for additional output graphs
+
 ## Section 3: Instructions for reproducing your results
 
 To replicate our results, first download the files in the DATA folder.
