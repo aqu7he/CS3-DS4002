@@ -6,7 +6,7 @@ Software: Python (Colab or Jupyter)
 
 Packages: numpy, pandas, scikit.learn, statsmodels.api, matplotlib
 
-Platform: Charlie used Windows, Andrea and Cato on Mac
+Platform: Charlie and Cato used Windows, Andrea on Mac
 
 ## Section 2: A map of documentation
 
